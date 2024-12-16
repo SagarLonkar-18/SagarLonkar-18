@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SagarLonkar-18
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m @SagarLonkar-18
+ I’m interested in Web Development and 3D web development.
 
 <!---
 SagarLonkar-18/SagarLonkar-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
