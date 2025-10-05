@@ -1,7 +1,9 @@
- Hi, I’m @SagarLonkar-18
- I’m interested in Web Development and 3D web development.
+<div align="center">
 
-<!---
-SagarLonkar-18/SagarLonkar-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#  Hi, I’m **Sagar Lonkar**
+
+### “My README doesn’t speak — my work does.”  
+
+[Visit Portfolio](https://sagarlonkar.dopamine24by7.com/)
+
+</div>
